@@ -1,0 +1,220 @@
+ISOID,Country Name,LaborForce
+760,Syrian Arab Republic,13.60000038
+368,Iraq,15
+12,Algeria,15.39999962
+999,West Bank and Gaza,15.69999981
+400,Jordan,15.80000019
+4,Afghanistan,15.89999962
+364,"Iran, Islamic Rep.",16.70000076
+,Middle East & North Africa (developing only),20.20637298
+682,Saudi Arabia,20.39999962
+583,Middle East & North Africa (all income levels),21.80229382
+28,Arab World,23.48833286
+426,Lebanon,23.70000076
+80,Samoa,23.70000076
+222,"Egypt, Arab Rep.",23.79999924
+626,Timor-Leste,24.5
+586,Pakistan,24.79999924
+788,Tunisia,25.20000076
+887,"Yemen, Rep.",25.60000038
+504,Morocco,26.70000076
+356,India,27
+478,Mauritania,28.89999962
+512,Oman,29.29999924
+792,Turkey,29.29999924
+438,Libya,30
+,South Asia,30.54720466
+736,Sudan,31.39999962
+70,Bosnia and Herzegovina,34.20000076
+620,Puerto Rico,34.59999847
+144,Sri Lanka,35.09999847
+174,Comoros,35.40000153
+262,Djibouti,36.5
+706,Somalia,37.29999924
+,Fiji,37.5
+470,Malta,37.79999924
+498,Moldova,38.09999847
+,Lower middle income,38.76491151
+48,Bahrain,39.09999847
+380,Italy,39.70000076
+566,Niger,40.09999847
+740,Suriname,40.5
+,Guyana,42.90000153
+499,Montenegro,42.90000153
+,Honduras,43.09999847
+807,"Macedonia, FYR",43.20000076
+192,Cuba,43.5
+480,Mauritius,43.70000076
+414,Kuwait,43.79999924
+308,Greece,44.09999847
+748,Swaziland,44.09999847
+,Pacific island small states,44.24514988
+458,Malaysia,44.5
+688,Serbia,44.59999847
+191,Croatia,44.70000076
+710,South Africa,44.70000076
+8,Albania,44.79999924
+,Hungary,44.90000153
+484,Mexico,45.09999847
+678,Sao Tome and Principe,45.59999847
+554,New Caledonia,45.79999924
+,Europe & Central Asia (developing only),46.13659255
+784,United Arab Emirates,46.40000153
+188,Costa Rica,46.70000076
+266,French Polynesia,47
+795,Turkmenistan,47.09999847
+,Middle income,47.56984392
+32,Argentina,47.59999847
+56,Belgium,47.59999847
+562,Nicaragua,47.70000076
+100,Bulgaria,48
+226,El Salvador,48.09999847
+860,Uzbekistan,48.20000076
+,Nigeria,48.29999924
+392,Japan,48.70000076
+608,Poland,48.90000153
+642,Romania,49
+585,Panama,49.09999847
+140,Central Europe and the Baltics,49.15473624
+84,Belize,49.40000153
+152,Chile,49.40000153
+324,Guatemala,49.5
+,Low & middle income,49.666702
+410,"Korea, Rep.",50.09999847
+,Euro area,50.13030562
+999,World,50.29158576
+112,Belarus,50.29999924
+250,France,50.59999847
+442,Luxembourg,50.59999847
+634,Qatar,50.70000076
+,European Union,50.80397081
+,Europe & Central Asia (all income levels),50.81471796
+466,Mali,50.90000153
+,OECD members,50.91073672
+,"Hong Kong SAR, China",51.09999847
+604,Philippines,51.09999847
+703,Slovak Republic,51.20000076
+999,"Venezuela, RB",51.20000076
+203,Czech Republic,51.29999924
+,High income: nonOECD,51.32960943
+212,Dominican Republic,51.40000153
+360,Indonesia,51.40000153
+,Fragile and conflict affected situations,51.67029411
+116,Cabo Verde,51.90000153
+148,Channel Islands,52
+96,Brunei Darussalam,52.20000076
+705,Slovenia,52.20000076
+384,Cote d'Ivoire,52.5
+724,Spain,52.5
+,High income,52.53640202
+,High income: OECD,52.85972249
+372,Ireland,53.09999847
+780,Trinidad and Tobago,53.09999847
+90,Solomon Islands,53.40000153
+776,Tonga,53.5
+804,Ukraine,53.5
+999,Virgin Islands (U.S.),53.59999847
+288,Germany,53.70000076
+,Latin America & Caribbean (all income levels),53.75610935
+132,Caribbean small states,54.01579379
+51,Armenia,54.5
+,Latin America & Caribbean (developing only),54.69161485
+40,Austria,54.70000076
+,Small states,54.77086567
+616,Portugal,54.90000153
+818,Ecuador,55
+428,Latvia,55.20000076
+516,Namibia,55.20000076
+246,Finland,55.40000153
+320,Guam,55.59999847
+999,St. Vincent and the Grenadines,55.79999924
+826,United Kingdom,55.79999924
+858,Uruguay,55.79999924
+598,Paraguay,55.90000153
+170,Colombia,56
+440,Lithuania,56
+,Other small states,56.08302636
+388,Jamaica,56.09999847
+196,Cyprus,56.20000076
+231,Estonia,56.29999924
+417,Kyrgyz Republic,56.29999924
+840,United States,56.29999924
+270,Gabon,56.5
+462,Maldives,56.59999847
+276,Georgia,56.79999924
+,North America,56.82783556
+999,Upper middle income,56.84310476
+496,Mongolia,57
+643,Russian Federation,57.09999847
+50,Bangladesh,57.59999847
+376,Israel,57.70000076
+434,Liberia,58.29999924
+528,Netherlands,58.29999924
+702,Singapore,58.59999847
+36,Australia,58.70000076
+208,Denmark,58.70000076
+430,Lesotho,59.09999847
+762,Tajikistan,59.09999847
+76,Brazil,59.40000153
+752,Sweden,60.20000076
+,Haiti,61.09999847
+578,Norway,61.20000076
+214,East Asia & Pacific (all income levels),61.34508365
+124,Canada,61.40000153
+548,Vanuatu,61.5
+756,Switzerland,61.79999924
+558,New Zealand,61.90000153
+404,Kenya,62.40000153
+218,East Asia & Pacific (developing only),62.65272905
+999,St. Lucia,62.79999924
+31,Azerbaijan,63.09999847
+24,Angola,63.5
+999,Sub-Saharan Africa (developing only),63.76093364
+999,Sub-Saharan Africa (all income levels),63.77562411
+,Cameroon,64
+,Chad,64
+156,China,64
+764,Thailand,64.19999695
+68,Bolivia,64.40000153
+694,Sierra Leone,65.59999847
+624,Guinea,65.69999695
+422,Least developed countries: UN classification,65.70354338
+52,Barbados,65.80000305
+,"Macao SAR, China",66
+686,Senegal,66.09999847
+,Heavily indebted poor countries (HIPC),66.66632966
+64,Bhutan,66.90000153
+300,Ghana,67.5
+204,Benin,67.69999695
+398,Kazakhstan,67.90000153
+328,Guinea-Bissau,68.30000305
+600,Peru,68.40000153
+178,"Congo, Rep.",68.5
+44,"Bahamas, The",69.30000305
+352,Iceland,70.30000305
+591,Papua New Guinea,70.40000153
+180,"Congo, Dem. Rep.",70.69999695
+72,Botswana,71.90000153
+,Low income,72.17599484
+268,"Gambia, The",72.19999695
+408,"Korea, Dem. Rep.",72.19999695
+,Central African Republic,72.59999847
+894,Zambia,73
+704,Vietnam,73.19999695
+104,Myanmar,75.09999847
+800,Uganda,75.69999695
+418,Lao PDR,76.30000305
+854,Burkina Faso,77
+,Ethiopia,78.30000305
+120,Cambodia,78.69999695
+524,Nepal,79.90000153
+233,Eritrea,80.09999847
+768,Togo,80.59999847
+232,Equatorial Guinea,80.69999695
+108,Burundi,83.40000153
+716,Zimbabwe,83.59999847
+454,Malawi,84.5
+508,Mozambique,85.30000305
+646,Rwanda,86.19999695
+450,Madagascar,86.40000153
+834,Tanzania,88
